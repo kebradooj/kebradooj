@@ -8,7 +8,7 @@
 - 💬 Ask me about everything
 - ⚡ Fun fact: I love vegetables
 
-[<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=shades-of-purple&show_icons=true&hide_border=true">](https://github.com/kebradooj)
+[<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=nord&show_icons=true&hide_border=true">](https://github.com/kebradooj)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&hide_border=true)](https://github.com/kebradooj)
 
