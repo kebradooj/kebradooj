@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+😇🤓🤓 =^-_-^= 🍓🥗
 <!--
 **kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -11,8 +11,6 @@
 [<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=shades-of-purple&show_icons=true&hide_border=true">](https://github.com/kebradooj)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&hide_border=true)](https://github.com/kebradooj)
-
-😇🤓🤓 =^-_-^= 🍓🥗
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=Website-museums-guide-somewhere-in-earth&hide_border=true)](https://github.com/kebradooj/Website-museums-guide-somewhere-in-earth)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=MKXI-pre-order-page&hide_border=true)](https://github.com/kebradooj/MKXI-pre-order-page)
