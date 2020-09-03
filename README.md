@@ -20,4 +20,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=re2-remake-costumes-changer&hide_border=true)](https://github.com/kebradooj/re2-remake-costumes-changer)
 
 ### My first project 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=kebradooj&hide_border=true)](https://github.com/kebradooj/Poputka.kg)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=Poputka.kg&hide_border=true)](https://github.com/kebradooj/Poputka.kg)
