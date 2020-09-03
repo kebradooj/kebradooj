@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
-**kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Optima Bank
+- 🌱 I’m currently learning JS and C#
+- 💬 Ask me about everything
+- ⚡ Fun fact: I love vegetables
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=nord&show_icons=true&hide_border=true">](https://github.com/kebradooj)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&hide_border=true)](https://github.com/kebradooj)
+
+😇🤓🤓 =^-_-^= 🍓🥗
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=Website-museums-guide-somewhere-in-earth&hide_border=true)](https://github.com/kebradooj/Website-museums-guide-somewhere-in-earth)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=MKXI-pre-order-page&hide_border=true)](https://github.com/kebradooj/MKXI-pre-order-page)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=mern-stack-blog&hide_border=true)](https://github.com/kebradooj/mern-stack-blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=re2-remake-costumes-changer&hide_border=true)](https://github.com/kebradooj/re2-remake-costumes-changer)
+
+### My first project 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=kebradooj&hide_border=true)](https://github.com/kebradooj/Poputka.kg)
