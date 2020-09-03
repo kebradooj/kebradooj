@@ -17,6 +17,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=mern-stack-blog&hide_border=true)](https://github.com/kebradooj/mern-stack-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=re2-remake-costumes-changer&hide_border=true)](https://github.com/kebradooj/re2-remake-costumes-changer)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=Judith-sand-conference&hide_border=true)](https://github.com/kebradooj/Judith-sand-conference)
 ### My first test project with team
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=Poputka.kg&hide_border=true)](https://github.com/kebradooj/Poputka.kg)
 ### My first project
