@@ -20,3 +20,9 @@
 ### If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes.
 ###
 💬John Wooden
+###“The most important property of a program is whether it accomplishes the intention of its user.”
+###
+💬 C.A.R. Hoare
+###“Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code. ”
+###
+💬 Edsger W. Dijkstra
