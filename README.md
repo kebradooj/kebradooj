@@ -1,8 +1,6 @@
 ### HELLO THERE!
 <!--			
 **kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&hide_border=true)](https://github.com/kebradooj)
-###
 ###
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=Fractal-tree-recursion&theme=vue&hide_border=true)](https://github.com/kebradooj/Fractal-tree-recursion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=re2-remake-costumes-changer&theme=buefy&hide_border=true)](https://github.com/kebradooj/re2-remake-costumes-changer)
@@ -28,6 +26,8 @@
 ### Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code^_^
 💬 Edsger W. Dijkstra
 ###
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&hide_border=true)](https://github.com/kebradooj)
 ###
 ###
 ###
