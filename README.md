@@ -12,7 +12,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=re2-remake-costumes-changer&theme=buefy&hide_border=true)](https://github.com/kebradooj/re2-remake-costumes-changer)
 ###
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&theme=buefy&repo=Judith-sand-conference&hide_border=true)](https://github.com/kebradooj/Judith-sand-conference)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&theme=vue&repo=My-first-portfolio-project&hide_border=true)](https://github.com/kebradooj/https://github.com/kebradooj/My-first-portfolio-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&theme=vue&repo=My-first-portfolio-project&hide_border=true)](https://github.com/kebradooj//My-first-portfolio-project)
 ### My first project with team 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&theme=nord&repo=Poputka.kg&hide_border=true)](https://github.com/kebradooj/Poputka.kg)
 - 🔭 I’m currently working on planet Earth
