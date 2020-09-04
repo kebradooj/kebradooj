@@ -7,9 +7,13 @@
 🤓[<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=buefy&show_icons=true&hide_border=true">](https://github.com/kebradooj)🍓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&hide_border=true)](https://github.com/kebradooj)
+###
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=Fractal-tree-recursion&theme=vue&hide_border=true)](https://github.com/kebradooj/Fractal-tree-recursion)
+###
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=re2-remake-costumes-changer&theme=vue&hide_border=true)](https://github.com/kebradooj/re2-remake-costumes-changer)
 ###
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&theme=vue&repo=Judith-sand-conference&hide_border=true)](https://github.com/kebradooj/Judith-sand-conference)
+###
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&theme=vue&repo=My-first-portfolio-project&hide_border=true)](https://github.com/kebradooj/https://github.com/kebradooj/My-first-portfolio-project)
 ### My first project with team 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&theme=default&repo=Poputka.kg&hide_border=true)](https://github.com/kebradooj/Poputka.kg)
