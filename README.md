@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on planet Earth
 - 🌱 I’m currently learning JS and C#
-If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes.
+### If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes.
 
 💬John Wooden
 
