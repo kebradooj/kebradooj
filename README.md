@@ -1,5 +1,4 @@
-### Hello there 👋
-😇🤓🤓 =^-_-^= 🍓🥗
+### Hi what's up:) 👋
 <!--
 **kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -9,6 +8,6 @@
 
 💬John Wooden
 
-[<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=buefy&show_icons=true&hide_border=true">](https://github.com/kebradooj)
+🤓[<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=buefy&show_icons=true&hide_border=true">](https://github.com/kebradooj)🍓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&hide_border=true)](https://github.com/kebradooj)
