@@ -36,4 +36,4 @@
 [OPTIMA_BANK]: https://www.optimabank.kg
 [TELEGRAM]: https://t.me/kebradooj
 [LINKEDIN]: https://linkedin.com/in/kebradooj
-[GMAIL]: kasterrock@gmail.com
+[GMAIL]: https://gmail.com/kasterrock
