@@ -2,7 +2,8 @@
 ###
 - 🔭 I’m currently working on planet Earth🍓 -
 - 🌱 I’m currently learning JS and C#🤓 -
-### TEXT ON SOCIAL MEDIA IF YOU INTERESTED TO WORK WITH ME.^_^. 👉[<img alt="#" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1604/1604538.svg" />][TELEGRAM] 👉[<img alt="#" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg" />][LINKEDIN] 👉[<img alt="#" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />][GMAIL]
+### TEXT ON SOCIAL MEDIA IF YOU INTERESTED TO WORK WITH ME.^_^. 
+👉[<img alt="#" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/1604/1604538.svg" />][TELEGRAM]👈 👉[<img alt="#" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg" />][LINKEDIN]👈 👉[<img alt="#" width="25px" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />][GMAIL]👈
 <!--			
 **kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ###
