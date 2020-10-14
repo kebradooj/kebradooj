@@ -1,4 +1,4 @@
-### HELLO THERE!
+### HELLO THERE! I AM FRONT_END DEVELOPER IN [OPTIMA_BANK][OPTIMA_BANK]
 <!--			
 **kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ###
@@ -31,3 +31,4 @@
 ###
 ###
 ###
+[OPTIMA_BANK]: https://www.optimabank.kg/
