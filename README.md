@@ -1,4 +1,11 @@
-### HELLO THERE! I AM FRONT_END DEVELOPER IN [OPTIMA_BANK][OPTIMA_BANK]
+### HELLO THERE! I AM FRONT_END DEVELOPER IN [OPTIMA_BANK][OPTIMA_BANK]👈
+###
+- 🔭 I’m currently working on planet Earth🍓 -
+- 🌱 I’m currently learning JS and C#🤓 -
+###
+[TELEGRAM][<img alt="#" src="https://www.flaticon.com/svg/static/icons/svg/1604/1604538.svg" />]
+[LINKEDIN][<img alt="#" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg" />]
+[GMAIL]<img alt="#" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" />]
 <!--			
 **kebradooj/kebradooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ###
@@ -13,9 +20,6 @@
 ###
 
 [<img alt="kebradooj's Github Stats vision" src="https://github-readme-stats.vercel.app/api?username=kebradooj&theme=dracula&show_icons=true&hide_border=true">](https://github.com/kebradooj)
-###
-- 🔭 I’m currently working on planet Earth🍓
-- 🌱 I’m currently learning JS and C#🤓
 ### If you're not making mistakes, then you're not doing anything. I'm positive that a doer makes mistakes.
 ###
 💬John Wooden
@@ -31,4 +35,7 @@
 ###
 ###
 ###
-[OPTIMA_BANK]: https://www.optimabank.kg/
+[OPTIMA_BANK]: https://www.optimabank.kg
+[TELEGRAM]: https://t.me/kebradooj
+[LINKEDIN]: https://linkedin.com/in/kebradooj
+[GMAIL]: kasterrock@gmail.com
