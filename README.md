@@ -2,7 +2,6 @@
 
 My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game developmen, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
-Ambassador at Storyblok & NuxtJS. In love with Vue, TailwindCSS and AMP components 🥰
 
 ## Contributions
 
