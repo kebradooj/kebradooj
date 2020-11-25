@@ -1,19 +1,16 @@
 ## Hi folks
-My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game development, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
+My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game development, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality.
 
 
 ## Contributions
 
 <img src="https://github-readme-stats.vercel.app/api?username=kebradooj&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
 
-## Most used languages
+## GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
+[![Most Used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kebradooj&layout=compact&theme=graywhite)](https://github.com/kebradooj)
 
-## Where you can find me
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
+## My Skills
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3)
@@ -31,8 +28,10 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230052CC.svg?&style=for-the-badge&logo=bitbucket)
 
+# Working in game development direction on my spare time
+
 ![Unreal Engine](https://img.shields.io/badge/unrealengine%20-%23313131.svg?&style=for-the-badge&logo=unreal-engine)
 ![Blender](https://img.shields.io/badge/blender%20-%23f5792a.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity)
 ![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam)
-## Working in game development direction on my spare time
+
