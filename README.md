@@ -16,7 +16,7 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-blue?&style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/vue%20-%234FC08D.svg?&style=for-the-badge&logo=vue&logoColor=white)
+![Vue](https://img.shields.io/badge/vue%20-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma%20-%23f24e1e.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/adobexd%20-%23ff26be.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white)
