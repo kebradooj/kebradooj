@@ -22,5 +22,6 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab)
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine%20-%23313131.svg?&style=for-the-badge&logo=unreal-engine)
-
+![Blender](https://img.shields.io/badge/blender%20-%23f5792a.svg?&style=for-the-badge&logo=blender)
+![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity)
 ## Working in game development direction on my spare time
