@@ -14,6 +14,7 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 <div class="text-blue mb-2">
   .text-blue on white
 </div>
+
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-blue?&style=for-the-badge&logo=react)
