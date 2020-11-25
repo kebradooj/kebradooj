@@ -13,22 +13,14 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 
 ## Where you can find me
 
-<p>
-  <a href="https://www.linkedin.com/in/kebradooj/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35" />
-  </a>
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 
-  <a href="https://www.instagram.com/kebradooj/" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="35" width="55" />
-  </a>
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/-Vue-?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-  <a href="https://twitter.com/kebradooj" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="35" />
-  </a>
-  
-  <a href="https://t.me/kebradooj" rel="nofollow">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="35" width="55" />
-  </a>
-</p>
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Working in game development direction on my spare time
