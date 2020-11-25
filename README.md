@@ -36,5 +36,3 @@ Game Development🎮🕹:
 ![Blender](https://img.shields.io/badge/blender%20-%23f5792a.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity)
 ![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kebradooj&repo=github-readme-stats&theme=graywhite)](https://github.com/kebradooj/)
