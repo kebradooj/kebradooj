@@ -1,14 +1,10 @@
 ## Hi folks
 My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game development, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality.
 
-
-## Contributions
-
-<img src="https://github-readme-stats.vercel.app/api?username=kebradooj&show_icons=true&count_private=true&title_color=b794f4&text_color=ffffff&icon_color=ffffff&bg_color=1a202c&include_all_commits=true" alt="Contributions" />
-
 ## GitHub stats
 
 [![Most Used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kebradooj&layout=compact&theme=graywhite)](https://github.com/kebradooj)
+[![Kebradooj github stats](https://github-readme-stats.vercel.app/api?username=kebradooj&show_icons=true&theme=graywhite)](https://github.com/kebradooj)
 
 ## My Skills
 
