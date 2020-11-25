@@ -27,7 +27,7 @@ Git:
 ![BitBucket](https://img.shields.io/badge/bitbucket%20-%230052CC.svg?&style=for-the-badge&logo=bitbucket)
 
 Languages:
-![Russian](https://img.shields.io/badge/🇷🇺russian%20-%23005EF9.svg?&style=for-the-badge)
+🇷🇺![Russian](https://img.shields.io/badge/russian%20-%23005EF9.svg?&style=for-the-badge)
 ![English](https://img.shields.io/badge/english%20-%23E53935.svg?&style=for-the-badge)
 ![Kyrgyz](https://img.shields.io/badge/kyrgyz%20-%23E53935.svg?&style=for-the-badge)
 
