@@ -22,7 +22,7 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 ![Adobe XD](https://img.shields.io/badge/adobexd%20-%23ff26be.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator%20-%23ff9a00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop)
-![Adobe AE](https://img.shields.io/badge/adobepaftereffects%20-%239999FF.svg?&style=for-the-badge&logo=adobe-photoshop)
+![Adobe AE](https://img.shields.io/badge/adobepae%20-%239999FF.svg?&style=for-the-badge&logo=adobe-after-effects)
 ![Adobe Premiere Pro](https://img.shileds.io/badge/adobepremierepro%20-%23EA77FF.svg?&style=for-the-badge&logo=adobe-premiere-pro)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
