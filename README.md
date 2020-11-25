@@ -19,11 +19,11 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 ![Vue](https://img.shields.io/badge/-Vue-green?&style=for-the-badge&logo=vue.js)
 
 ![Figma](https://img.shields.io/badge/figma%20-%23f24e1e.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/xd%20-%23ff26be.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobexd%20-%23ff26be.svg?&style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator%20-%23ff9a00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe AE](https://img.shields.io/badge/aftereffects%20-%239999FF.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/premierepro%20-%239999FF.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/premierepro%20-%23EA77FF.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab)
