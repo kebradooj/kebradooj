@@ -13,14 +13,14 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 
 ## Where you can find me
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5)
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3)
-![Javascript](https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript)
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vue.js)
 
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23FCA121.svg?&style=for-the-badge&logo=gitlab)
 
 ## Working in game development direction on my spare time
