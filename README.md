@@ -5,6 +5,8 @@ My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm 
 [![Kebradooj github stats](https://github-readme-stats.vercel.app/api?username=kebradooj&show_icons=true&theme=graywhite)](https://github.com/kebradooj)
 [![Most Used languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kebradooj&layout=compact&theme=graywhite)](https://github.com/kebradooj)
 
+[![GitHub Repos](https://github-readme-stats.anuraghazra1.vercel.app/api/repo-card/?username=kebradooj&layout=compact&theme=graywhite)](https://github.com/kebradooj)
+
 ## My Skills
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
