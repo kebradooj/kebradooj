@@ -1,7 +1,7 @@
 ## Hi folks
-- red
+- red asdasd
 ! a
-My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game development, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
+- My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game development, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
 
 ## Contributions
