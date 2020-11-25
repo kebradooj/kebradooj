@@ -1,7 +1,5 @@
 ## Hi folks
-- red asdasd
-! a
-- My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game development, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
+My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about frontend development and game development, and I'm working hard on teaching other peoples to create more value for the web community. 'More effort now to save effort later' mentality & clean code as a life style.
 
 
 ## Contributions
@@ -13,7 +11,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebradooj&layout=compact&title_color=553c9a&text_color=1a202c" alt="Most used languages" />
 
 ## Where you can find me
-
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/-React-blue?&style=for-the-badge&logo=react)
