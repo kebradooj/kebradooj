@@ -1,5 +1,5 @@
 ## Hi folks
-My name is Joodarbek, aka kebradooj, I'm FrontEnd Developer at Optima Bank. I'm creating good stuffs about FrontEnd Development and Game Development, and I'm working hard on teaching other peoples to create more value for the Web Community. 'More effort now to save effort later' mentality.
+My name is Joodarbek, aka kebradooj, I'm creating good stuffs about Frontend Development and Game Development, and I'm working hard on teaching other peoples around me to create more value for the community. 'More effort now to save effort later' mentality.
 
 ## GitHub stats
 [![Kebradooj github stats](https://github-readme-stats.vercel.app/api?username=kebradooj&show_icons=true&theme=graywhite)](https://github.com/kebradooj)
